@@ -6,10 +6,11 @@
     1. [Frontend] (http://leveluptuts.com/tutorials/magento-community-tutorials/2-frontend-tour)
     2. [Backend] (http://leveluptuts.com/tutorials/magento-community-tutorials/3-backend-tour-part-1)
 
-*   [Creating Categories, Subcategories](http://leveluptuts.com/tutorials/magento-community-tutorials/7-creating-categories-subcategories)*   [Create Attribute sets](http://leveluptuts.com/tutorials/magento-community-tutorials/8-creating-attribute-sets)
-*   [Create Attributes](http://leveluptuts.com/tutorials/magento-community-tutorials/9-creating-attributes)
-*   [Create a simple product](http://leveluptuts.com/tutorials/magento-community-tutorials/10-creating-simple-product)
-*   [Create, Edit and Display Static Blocks] (http://leveluptuts.com/tutorials/magento-community-tutorials/18-how-create-edit-and-display-static-blocks-using-widgets)
+*   [Creating Categories, Subcategories] (http://goo.gl/lGL2Lr)
+*   [Create Attribute sets] (http://leveluptuts.com/tutorials/magento-community-tutorials/8-creating-attribute-sets)
+*   [Create Attributes] (http://leveluptuts.com/tutorials/magento-community-tutorials/9-creating-attributes)
+*   [Create a simple product] (http://goo.gl/V2gIiV)
+*   [Create, Edit and Display Static Blocks] (http://goo.gl/HXTWbc)
 
 *   **Theme development**
     1.  [Intro to theming] (http://leveluptuts.com/tutorials/magento-community-tutorials/25-theming-magento-1-intro-theming)
