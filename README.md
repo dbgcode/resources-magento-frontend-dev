@@ -1,7 +1,7 @@
 # MAGENTO THEME DEVELOPMENT
 **Step By Step Learning** 
 
-*   Magento Installation
+*   [Magento Installation] (http://leveluptuts.com/tutorials/magento-community-tutorials/1-how-install-magento)
 *   Magento Know the system, both Frontend and Backend
 *   Creating Categories, Subcategories
 *   Create Attribute sets
