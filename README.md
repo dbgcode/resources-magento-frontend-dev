@@ -11,16 +11,19 @@
 *   [Create a simple product] (http://leveluptuts.com/tutorials/magento-community-tutorials/10-creating-simple-product)
 *   [Create, Edit and Display Static Blocks] (http://leveluptuts.com/tutorials/magento-community-tutorials/18-how-create-edit-and-display-static-blocks-using-widgets)
 *   Theme development
-    1.  Layouts, blocks, changing theme
-    2.  Create your own theme
-    3.  Modify template files
-    4.  Layout file structure
-    5.  Create custom layouts
-    6.  Adding responsive features
-    7.  Add jQuery to your theme
-    8.  Add a responsive sider
-    9.  Add home link to main navigation
-    10. Add static page to main navigation
+    1.  [Intro to theming] (http://leveluptuts.com/tutorials/magento-community-tutorials/25-theming-magento-1-intro-theming)
+    2.  [Layouts, blocks, changing theme] (http://leveluptuts.com/tutorials/magento-community-tutorials/26-theming-magento-2-layouts-blocks-and-changing-skin)
+    3.  [Create your own theme] (http://leveluptuts.com/tutorials/magento-community-tutorials/27-theming-magento-3-creating-your-own-theme)
+    4.  [Modify template files] (http://leveluptuts.com/tutorials/magento-community-tutorials/28-theming-magento-4-modifying-template-files)
+    5.  [Developer Debug Options] (http://leveluptuts.com/tutorials/magento-community-tutorials/29-theming-magento-5-developer-debug-options)
+    6.  [Experimenting With Layout Files] (http://leveluptuts.com/tutorials/magento-community-tutorials/30-theming-magento-6-experimenting-layout-files)
+    7.  [Layout file structure] (http://leveluptuts.com/tutorials/magento-community-tutorials/31-theming-magento-7-layout-files-structure)
+    6.  [Create custom layouts] ()
+    7.  [Adding responsive features] ()
+    8.  [Add jQuery to your theme] ()
+    9.  [Add a responsive slider] ()
+    10.  [Add home link to main navigation] ()
+    11.  [Add static page to main navigation] ()
 *   Install an extension
 
 The steps mentioned above are created based on the community video tutorials provided by [Level Up Tutorials] (http://leveluptuts.com/tutorials/magento-community-tutorials). It will guide you through the basics of Magento theme integration. It is highly recommended to go through the full tutorial at least once.  
