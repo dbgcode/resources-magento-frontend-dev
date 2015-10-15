@@ -32,5 +32,4 @@ Some other reference resources are listed below.
  * inchoo.net [Designers Guide to Magento] (http://inchoo.net/wp-content/uploads/2008/06/designers_guide_to_magento.pdf) 
  
 # Contribute
----
-if you have an idea that would be nice to have, create an issue on the emberjs/rfcs repo. If you have a question about requesting a feature, start a discussion at discuss.emberjs.com
+Your contributions defenitely adds value to this guide. if you find any resources which can be added, an idea that would be nice to have, feel free to fork the repository and work on it. Send a pull request. 
