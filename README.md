@@ -1,6 +1,6 @@
 # MAGENTO THEME DEVELOPMENT
 
-[Magento documentation] (http://magento.com/help/documentation) is your friend and it will be great if you glance through the documentation first. To download the latest Magento design documentation please  [click here.] (http://info2.magento.com/rs/magentoenterprise/images/MagentoDesignGuide.pdf). 
+[Magento documentation] (http://magento.com/help/documentation) is your friend. It will be great if you glance through the documentation first. To download the latest Magento design documentation please  [click here.] (http://info2.magento.com/rs/magentoenterprise/images/MagentoDesignGuide.pdf). 
 
 **Step By Step Learning** 
 
