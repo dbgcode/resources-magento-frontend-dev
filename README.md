@@ -1,1 +1,2 @@
 # MAGENTO THEME DEVELOPMENT
+**Prerequisites** 
