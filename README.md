@@ -1,5 +1,5 @@
 # MAGENTO THEME DEVELOPMENT
-***Step By Step Learning*** 
+**Step By Step Learning** 
 
 *   Magento Installation
 *   Magento Know the system, both Frontend and Backend
