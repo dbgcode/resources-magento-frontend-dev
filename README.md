@@ -22,3 +22,5 @@
 *   Install an extension
 
 The steps mentioned above are created based on the community video tutorials provided by [Level Up Tutorials] (http://leveluptuts.com/tutorials/magento-community-tutorials). It will guide you through the basics of Magento theme integration. It is highly recommended  to go through the full tutorial at least once.  
+
+The official Magento [design documentation] (http://magento.com/help/documentation) will be really helpful. Please download the updated design documentation from http://magento.com/help/documentation
