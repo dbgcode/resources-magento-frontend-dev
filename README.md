@@ -21,11 +21,4 @@
     10. Add static page to main navigation
 *   Install an extension
 
-*   Abacus
-    * answer
-*   Bubbles
-    1.  bunk
-    2.  bupkis
-        * BELITTLER
-    3. burper
-*   Cunning
+The steps mentioned above are created based on the community video tutorials provided by [Level Up Tutorials] (http://leveluptuts.com/tutorials/magento-community-tutorials). It will guide you through the basics of Magento theme integration. It is highly recommended  to go through the full tutorial at least once.  
