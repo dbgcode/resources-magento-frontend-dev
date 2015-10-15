@@ -2,10 +2,10 @@
 **Step By Step Learning** 
 
 *   [Magento Installation] (http://leveluptuts.com/tutorials/magento-community-tutorials/1-how-install-magento)
-
 *   **Magento, Know the system (Frontend and Backend)**
     1. [Frontend] (http://leveluptuts.com/tutorials/magento-community-tutorials/2-frontend-tour)
     2. [Backend] (http://leveluptuts.com/tutorials/magento-community-tutorials/3-backend-tour-part-1)
+
 *   [Creating Categories, Subcategories] (http://leveluptuts.com/tutorials/magento-community-tutorials/7-creating-categories-subcategories)
 *   [Create Attribute sets] (http://leveluptuts.com/tutorials/magento-community-tutorials/8-creating-attribute-sets)
 *   [Create Attributes] (http://leveluptuts.com/tutorials/magento-community-tutorials/9-creating-attributes)
