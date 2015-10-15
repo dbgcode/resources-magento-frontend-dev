@@ -1,4 +1,7 @@
 # MAGENTO THEME DEVELOPMENT
+
+[Magento documentation] (http://magento.com/help/documentation) is your friend and it will be great if you glance through the documentation first. To download the latest Magento design documentation please  [click here.] (http://info2.magento.com/rs/magentoenterprise/images/MagentoDesignGuide.pdf). 
+
 **Step By Step Learning** 
 
 *   [Magento Installation] (http://leveluptuts.com/tutorials/magento-community-tutorials/1-how-install-magento)
@@ -33,8 +36,6 @@
     2. [Installing An Extension With Mage] (http://leveluptuts.com/tutorials/magento-community-tutorials/65-installing-extension-mage)
 
 The steps mentioned above are created based on the community video tutorials provided by [Level Up Tutorials] (http://leveluptuts.com/tutorials/magento-community-tutorials). It will guide you through the basics of Magento theme integration. It is highly recommended to go through the full tutorial at least once.  
-
-The official [Magento documentation] (http://magento.com/help/documentation) will be really helpful. Please download the latest Magento design documentation [here] (http://info2.magento.com/rs/magentoenterprise/images/MagentoDesignGuide.pdf)
 
 Some other reference resources are listed below.
 
