@@ -20,3 +20,12 @@
         i.  Add home link to main navigation
         j.  Add static page to main navigation
 *   Install an extension
+
+*   Abacus
+    * answer
+*   Bubbles
+    1.  bunk
+    2.  bupkis
+        * BELITTLER
+    3. burper
+*   Cunning
