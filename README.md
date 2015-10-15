@@ -9,8 +9,8 @@
 *	Create a simple product
 *	Create, Edit and Display Static Blocks
 *	Theme development
-        a.  Layouts, blocks, changing theme
-        b.  Create your own theme
+        1.  Layouts, blocks, changing theme
+        3.  Create your own theme
         c.  Modify template files
         d.  Layout file structure
         e.  Create custom layouts
