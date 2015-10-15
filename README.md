@@ -2,7 +2,7 @@
 **Step By Step Learning** 
 
 *   [Magento Installation] (http://leveluptuts.com/tutorials/magento-community-tutorials/1-how-install-magento)
-*   Magento Know the system, both Frontend and Backend
+*   **Magento Know the system, both Frontend and Backend**
     1. [Frontend] (http://leveluptuts.com/tutorials/magento-community-tutorials/2-frontend-tour)
     2. [Backend] (http://leveluptuts.com/tutorials/magento-community-tutorials/3-backend-tour-part-1)
 *   [Creating Categories, Subcategories] (http://leveluptuts.com/tutorials/magento-community-tutorials/7-creating-categories-subcategories)
@@ -10,7 +10,7 @@
 *   [Create Attributes] (http://leveluptuts.com/tutorials/magento-community-tutorials/9-creating-attributes)
 *   [Create a simple product] (http://leveluptuts.com/tutorials/magento-community-tutorials/10-creating-simple-product)
 *   [Create, Edit and Display Static Blocks] (http://leveluptuts.com/tutorials/magento-community-tutorials/18-how-create-edit-and-display-static-blocks-using-widgets)
-*   Theme development
+*   **Theme development**
     1.  [Intro to theming] (http://leveluptuts.com/tutorials/magento-community-tutorials/25-theming-magento-1-intro-theming)
     2.  [Layouts, blocks, changing theme] (http://leveluptuts.com/tutorials/magento-community-tutorials/26-theming-magento-2-layouts-blocks-and-changing-skin)
     3.  [Create your own theme] (http://leveluptuts.com/tutorials/magento-community-tutorials/27-theming-magento-3-creating-your-own-theme)
