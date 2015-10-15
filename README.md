@@ -24,3 +24,9 @@
 The steps mentioned above are created based on the community video tutorials provided by [Level Up Tutorials] (http://leveluptuts.com/tutorials/magento-community-tutorials). It will guide you through the basics of Magento theme integration. It is highly recommended to go through the full tutorial at least once.  
 
 The official [Magento documentation] (http://magento.com/help/documentation) will be really helpful. Please download the latest Magento design documentation [here] (http://info2.magento.com/rs/magentoenterprise/images/MagentoDesignGuide.pdf)
+
+Some other reference resources are listed below.
+
+ * sitepoint.com [Introduction to Magento Theme Development] (http://www.sitepoint.com/an-introduction-to-magento-themes/) 
+ * tutsplus.com [Magento for Designers] (http://code.tutsplus.com/series/magento-for-designers--net-19048) 
+ * inchoo.net [Designers Guide to Magento] (http://inchoo.net/wp-content/uploads/2008/06/designers_guide_to_magento.pdf) 
