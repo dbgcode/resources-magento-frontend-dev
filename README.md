@@ -1,24 +1,24 @@
 # MAGENTO THEME DEVELOPMENT
 ***Prerequisites*** 
 
-*	Magento Installation
-*	Magento Know the system, both Frontend and Backend
-*	Creating Categories, Subcategories
-*	Create Attribute sets
-*	Create Attributes
-*	Create a simple product
-*	Create, Edit and Display Static Blocks
-*	Theme development
-        1.  Layouts, blocks, changing theme
-        3.  Create your own theme
-        c.  Modify template files
-        d.  Layout file structure
-        e.  Create custom layouts
-        f.  Adding responsive features
-        g.  Add jQuery to your theme
-        h.  Add a responsive sider
-        i.  Add home link to main navigation
-        j.  Add static page to main navigation
+*   Magento Installation
+*   Magento Know the system, both Frontend and Backend
+*   Creating Categories, Subcategories
+*   Create Attribute sets
+*   Create Attributes
+*   Create a simple product
+*   Create, Edit and Display Static Blocks
+*   Theme development
+    1.  Layouts, blocks, changing theme
+    2.  Create your own theme
+    3.  Modify template files
+    4.  Layout file structure
+    5.  Create custom layouts
+    6.  Adding responsive features
+    7.  Add jQuery to your theme
+    8.  Add a responsive sider
+    9.  Add home link to main navigation
+    10. Add static page to main navigation
 *   Install an extension
 
 *   Abacus
