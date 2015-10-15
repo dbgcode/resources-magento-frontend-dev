@@ -1,1 +1,1 @@
-# magento-frontend-dev
+# MAGENTO THEME DEVELOPMENT
