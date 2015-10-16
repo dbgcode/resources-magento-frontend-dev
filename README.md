@@ -42,6 +42,7 @@ Some other reference resources are listed below.
  * sitepoint.com [Introduction to Magento Theme Development] (http://www.sitepoint.com/an-introduction-to-magento-themes/) 
  * tutsplus.com [Magento for Designers] (http://code.tutsplus.com/series/magento-for-designers--net-19048) 
  * tutsplus.com [Magento Theme Development] (http://code.tutsplus.com/series/magento-theme-development--cms-654)
+ * tutsplus.com [Magento Project Guidelines for Designers] (http://webdesign.tutsplus.com/articles/magento-project-guidelines-for-designers--webdesign-5065)
  * inchoo.net [Designers Guide to Magento] (http://inchoo.net/wp-content/uploads/2008/06/designers_guide_to_magento.pdf) 
  
 # Contribute
